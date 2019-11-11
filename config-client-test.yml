@@ -1,0 +1,5 @@
+test:
+   aa: client-test-wdd
+
+server:
+  port: 8099
